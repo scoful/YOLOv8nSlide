@@ -1,0 +1,10 @@
+train: E:/dev/mySlide/dataset/images/train  # train images
+val: E:/dev/mySlide/dataset/images/val  # val images
+test: E:/dev/mySlide/dataset/images/test  # test images
+
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'slide' ]
